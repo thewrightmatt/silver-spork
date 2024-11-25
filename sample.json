@@ -27,6 +27,20 @@
             "sms": true
           }
         }
+      },
+      {
+        "id": 3,
+        "name": "Jean Grey",
+        "email": "jgrey@example.com",
+        "age": 55,
+        "active": false,
+        "preferences": {
+          "theme": "light",
+          "notifications": {
+            "email": true,
+            "sms": true
+          }
+        }
       }
     ]
   }
